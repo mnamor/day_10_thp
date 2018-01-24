@@ -1,7 +1,7 @@
 # day_10_thp
 
 voici un programme qui scanne les adresse email et le nom des ville puis qui lenregiste dans un fichier et ensuite envoie des email 
-a toute ces boite 
+a toute ces boite mail
 
 le programme qui récupère les adresse email est le spreadsheet.rb
 
